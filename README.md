@@ -36,10 +36,10 @@ Emir Yaman, 21 yaşında bir üniversite öğrencisi. Babası, okul notlarından
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 400 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 50 ile başlaması gerektiği kararlaştırıldı.
 - **Daily Scrum**: Daily Scrum toplantılarının Meets ve Slack üzerinden yapıldı. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız [Imgur](https://imgur.com/a/shcnWhl)'da toplanmıştır
-- **Sprint board update**: Sprint board screenshot: ![Sprint board screenshot](./readMe/Sprint_1/image.png)
+- **Sprint board update**: Sprint board screenshot: ![Sprint board screenshot](./readME/Sprint_1/image.png)
 <details>
 <summary><strong>Oyun içi Screenshot</strong></summary>
 
-![Oyun İçi screenshot](./readMe/Sprint_1/ss01.jpg)
+![Oyun İçi screenshot](./readME/Sprint_1/ss01.jpg)
 
 </details>
