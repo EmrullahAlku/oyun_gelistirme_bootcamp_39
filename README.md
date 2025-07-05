@@ -1,4 +1,4 @@
-# Oyu Geliştrme Bootcamp Grup 39
+# Oyun Geliştrme Bootcamp Grup 39
 
 Bu depo, Unity tabanlı oyun geliştirme bootcamp'inin 39. grubu için hazırlanmıştır. Aşağıda proje hakkında genel bilgileri ve çalışma talimatlarını bulabilirsiniz.
 
