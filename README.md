@@ -32,7 +32,7 @@ Emir Yaman, 21 yaşında bir üniversite öğrencisi. Babası, okul notlarından
 
 # Sprint 1
 
-- **Sprint Notları**:
+- **Sprint Notları**: [Sprind Board](https://emrullahalku.atlassian.net/jira/software/projects/OGG3/boards/35?atlOrigin=eyJpIjoiYWQyMGZjZDhkYzc0NDE5NGExMGEzZDAxOWM4MGRmZWYiLCJwIjoiaiJ9)
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 400 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 50 ile başlaması gerektiği kararlaştırıldı.
 - **Daily Scrum**: Daily Scrum toplantılarının Meets ve Slack üzerinden yapıldı. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız [Imgur](https://imgur.com/a/shcnWhl)'da toplanmıştır
