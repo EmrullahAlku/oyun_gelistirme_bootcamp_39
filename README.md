@@ -4,7 +4,11 @@ Bu depo, Unity tabanlı oyun geliştirme bootcamp'inin 39. grubu için hazırlan
 
 ## İçindekiler
 
-- [Genel Bakış](#genel-bakış)
+- [Takım Üyeleri](#takım-üyeleri)
+- [Oyun Açıklaması](#oyun-açıklaması)
+- [Oyun Hikayesi](#oyun-hikayesi)
+- [Oyun Özellikleri](#oyun-özellikleri)
+- [Sprint 1](#sprint-1)
 
 ## Takım Üyeleri
 
