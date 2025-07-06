@@ -58,4 +58,4 @@ Emir Yaman, 21 yaşında bir üniversite öğrencisi. Babası, okul notlarından
     - Zaman yönetimi daha sıkı tutulmalı.
     - Karar aşamaları daha hızlı halledilmeli.
   - **Eylem Maddeleri**
-    - Bir sonraki sprint'te, projeye daha çok zaman ayıralacak.
+    - Bir sonraki sprint'te, projenin somut adımlarına daha çok odaklanılacak.
