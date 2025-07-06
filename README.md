@@ -49,5 +49,13 @@ Emir Yaman, 21 yaşında bir üniversite öğrencisi. Babası, okul notlarından
 </details>
 
 - **Sprint Review**:
-
+  - Bütün ekip projede hangi kısımların bittiğini ve bunun hakkındaki görüşlerini iletti. Oyunun güncel gidişatının yavaş kalındığı dile getirildi. Onun dışında herhangi bir sorun ile karşılaşılmadı.
 - **Sprint Retrospective**:
+  - **İyi Gidenler**
+    - Ekip içi iletişim kuvvetliydi.
+    - Toplantılar zamanında yapıldı
+  - **Geliştirilmesi Gerekenler**
+    - Zaman yönetimi daha sıkı tutulmalı.
+    - Karar aşamaları daha hızlı halledilmeli.
+  - **Eylem Maddeleri**
+    - Bir sonraki sprint'te, projeye daha çok zaman ayıralacak.
