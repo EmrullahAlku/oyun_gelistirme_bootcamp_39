@@ -75,13 +75,13 @@ Emir Yaman, 21 yaşında bir üniversite öğrencisi. Babası, okul notlarından
 <summary><strong>Oyun içi Screenshot</strong></summary>
 
 ![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/01.png)
-![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/02.png)
-![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/03.png)
-![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/04.png)
-![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/05.png)
-![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/06.png)
-![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/07.png)
-![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/08.png)
+![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/02.jpg)
+![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/03.jpg)
+![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/04.jpg)
+![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/05.jpg)
+![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/06.jpg)
+![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/07.jpg)
+![Oyun İçi screenshot1](./readME/Sprint_2/screenshots/game/08.jpg)
 
 </details>
 
