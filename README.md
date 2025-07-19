@@ -90,7 +90,6 @@ Emir Yaman, 21 yaşında bir üniversite öğrencisi. Babası, okul notlarından
 - **Sprint Retrospective**:
   - **Geliştirilmesi Gerekenler**
     - Zaman yönetimi daha sıkı tutulmalı.
-    - Karar aşamaları daha hızlı halledilmeli.
     - Daha fazla toplantı yapılmalı
   - **Eylem Maddeleri**
     - Bir sonraki sprint'te, projenin somut adımlarına daha çok odaklanılacak.
