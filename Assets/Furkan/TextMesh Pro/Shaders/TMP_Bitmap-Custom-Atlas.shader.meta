@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a95f5e98832ed045ada85692b6a5153
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213197
+  packageName: Unity Terrain - URP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  uploadId: 727820

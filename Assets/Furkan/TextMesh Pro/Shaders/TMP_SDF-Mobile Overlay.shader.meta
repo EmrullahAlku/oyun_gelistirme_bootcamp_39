@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 990d56b344832354d9f383f8ad28a9a1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213197
+  packageName: Unity Terrain - URP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  uploadId: 727820

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82303239543e225438de64baab48e20e
+timeCreated: 1432805430
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213197
+  packageName: Unity Terrain - URP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  uploadId: 727820

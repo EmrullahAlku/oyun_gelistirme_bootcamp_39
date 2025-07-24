@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bdecb22ca5a32434f9738f5d1cdfc254
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213197
+  packageName: Unity Terrain - URP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+  uploadId: 727820
