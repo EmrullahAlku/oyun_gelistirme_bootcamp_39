@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 24538dcd227ea964493dc51e70428a37
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213197
+  packageName: Unity Terrain - URP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+  uploadId: 727820

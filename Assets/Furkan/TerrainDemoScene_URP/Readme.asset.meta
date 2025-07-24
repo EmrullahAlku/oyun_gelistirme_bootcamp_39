@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ffbababb91c3ea4db857667f1c20936
+timeCreated: 1484217493
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213197
+  packageName: Unity Terrain - URP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_URP/Readme.asset
+  uploadId: 727820
